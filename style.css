@@ -1,0 +1,27 @@
+body {
+  background-image: url("garuda-wisnu-kencana.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background {
+  width: 700px;
+  height: 300px;
+  border: solid 1px black;
+  background-color: white;
+  background-image: url("avocado.jpg");
+  background-repeat: repeat-y;
+  overflow: scroll;
+}
+
+.satu {
+  color: blue;
+}
+
+.dua {
+  color: green;
+}
+
+.tiga {
+  color: red;
+}
